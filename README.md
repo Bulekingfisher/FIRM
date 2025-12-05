@@ -1,5 +1,6 @@
 # FIRM
 Here we collect all our code for our ''Focused Illustrative Representation Model (FIRM)'' project.
+Please note that the codebase is currently being organized and refined, and additional components will be released in subsequent updates.
 
 ## Dependencies can be installed using the following command.
 '''
